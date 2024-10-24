@@ -79,6 +79,9 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 ### Survey
 - A Survey of Large Language Models in Finance (FinLLMs), *ArXiv'24* ([Paper](https://arxiv.org/pdf/2402.02315))
 - A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2406.11903))
+- Large Language Model Agent in Financial Trading: A Survey, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2408.06361))
+- Revolutionizing Finance with LLMs: An Overview of Applications and Insights, _ArXiv'24_([Paper](https://arxiv.org/pdf/2401.11641))
+
 
 ## Citation
 Please cite the repo if the content assists your work.
