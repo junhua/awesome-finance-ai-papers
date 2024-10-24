@@ -22,7 +22,7 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 - Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting, *KDD'25* ([Paper](https://arxiv.org/pdf/2409.15662))
 - Stock Movement Prediction Based on Bi-typed Hybrid-relational Market Knowledge Graph via Dual Attention Networks, *TKDE'23* ([Paper](https://arxiv.org/pdf/2201.04965))
 
-### Stock Trend/Movement Prediction
+### Stock Trend / Movement Prediction
 - Multi-relational Graph Diffusion Neural Network with Parallel Retention for Stock Trends Classification, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/document/10447394))
 - Saliency-Aware Interpolative Augmentation for Multimodal Financial Prediction, *COLING'24* ([Paper](https://aclanthology.org/2024.lrec-main.1244.pdf))
 - ECHO-GL: Earnings Calls-Driven Heterogeneous Graph Learning for Stock Movement Prediction, *AAAI'24* ([Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29305))
