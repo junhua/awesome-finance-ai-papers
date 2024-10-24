@@ -1,6 +1,6 @@
-# awesome-finance-ai-papers
+# Awesome-finance-AI-Papers: Recent Advancements in AI for Finance
 
-This repository is a curated collection of the most influential and impactful papers presented at top Computer Science (CS) conferences related to Artificial Intelligence (AI) applications in finance. The aim is to offer a comprehensive review of these papers, summarize key findings, and analyze their contributions to the field.
+This repository is a curated collection of high-quality papers presented at top Computer Science (CS) conferences related to Artificial Intelligence (AI) applications in finance. The aim is to offer a comprehensive review of these papers, summarize key findings, and analyze their contributions to the field.
 
 ## By Categories
 ### Portfolio Optimization
