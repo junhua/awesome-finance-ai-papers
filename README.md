@@ -12,14 +12,14 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 
 ## By Categories
 ### Portfolio Optimization
-- Mitigating Extremal Risks: A Network-Based Portfolio Strategy, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2409.12208v1))
 - Developing A Multi-Agent and Self-Adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management, *AAMAS'24* ([Paper](https://arxiv.org/pdf/2402.00515))
-- Improving Portfolio Optimization Results with Bandit Networks, *ArXiv'24* ([paper](https://arxiv.org/pdf/2410.04217))
 - Trend-Heuristic Reinforcement Learning Framework for News-Oriented Stock Portfolio Management, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447993&tag=1))
 - Reinforcement Learning with Maskable Stock Representation for Portfolio Management in Customizable Stock Pools, *WWW'24* ([paper](https://arxiv.org/pdf/2311.10801))
 - FreQuant: A Reinforcement-Learning based Adaptive Portfolio Optimization with Multi-frequency Decomposition, *KDD'24* ([paper](https://dl.acm.org/doi/10.1145/3637528.3671668))
 - Risk-Managed Sparse Index Tracking Via Market Graph Clustering, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447211))
 - DiffSTOCK: Probabilistic relational Stock Market Predictions using Diffusion Models, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/document/10446690))
+- Mitigating Extremal Risks: A Network-Based Portfolio Strategy, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2409.12208v1))
+- Improving Portfolio Optimization Results with Bandit Networks, *ArXiv'24* ([paper](https://arxiv.org/pdf/2410.04217))
 
 ### Stock Price Forecasting
 - Enhanced forecasting of stock prices based on variational mode decomposition, PatchTST, and adaptive scale-weighted layer, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2408.16707))
