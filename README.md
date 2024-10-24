@@ -2,6 +2,10 @@
 
 This repository is a curated collection of high-quality papers presented at top Computer Science (CS) conferences related to Artificial Intelligence (AI) applications in finance. The aim is to offer a comprehensive review of these papers, summarize key findings, and analyze their contributions to the field.
 
+This list extends an earlier collection: [Awesome-LLM-Agents](https://github.com/junhua/awesome-llm-agents). 
+
+If the content helps you in your work, please leave a ⭐️ to the repo, or [cite](https://github.com/junhua/awesome-finance-ai-papers/edit/main/README.md).
+
 ## By Categories
 ### Portfolio Optimization
 - Mitigating Extremal Risks: A Network-Based Portfolio Strategy (ArXiv, [Paper](https://arxiv.org/pdf/2409.12208v1))
