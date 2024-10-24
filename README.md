@@ -8,7 +8,7 @@ The aim is to offer a comprehensive review of these papers, summarize key findin
 
 This list extends an earlier collection: [Awesome-LLM-Agents](https://github.com/junhua/awesome-llm-agents). 
 
-If the content helps you in your work, please leave a ⭐️ to the repo, or [cite](#citation).
+If the content helps you in your work, please leave a ⭐️ to the repo, or [cite](#citation) this repo.
 
 ## By Categories
 ### Portfolio Optimization
