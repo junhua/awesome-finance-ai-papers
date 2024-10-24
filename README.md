@@ -4,7 +4,7 @@ This repository is a curated collection of high-quality papers presented at top 
 
 This list extends an earlier collection: [Awesome-LLM-Agents](https://github.com/junhua/awesome-llm-agents). 
 
-If the content helps you in your work, please leave a ⭐️ to the repo, or [cite](https://github.com/junhua/awesome-finance-ai-papers/edit/main/README.md).
+If the content helps you in your work, please leave a ⭐️ to the repo, or [cite](https://github.com/junhua/awesome-finance-ai-papers/tree/main?tab=readme-ov-file#citation).
 
 ## By Categories
 ### Portfolio Optimization
