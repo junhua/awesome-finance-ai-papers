@@ -68,6 +68,7 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 - FinReport: Explainable Stock Earnings Forecasting via News Factor Analyzing Model, *WWW'24* ([Paper](https://arxiv.org/abs/2403.02647))
 - EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, *ACL'24* ([Paper](https://aclanthology.org/2024.acl-long.829/))
 - StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series, *AAAI'23* ([Paper](https://arxiv.org/pdf/2301.09279))
+- Temporal Relational Reasoning of Large Language Models for Detecting Stock Portfolio Crashes, _ArXiv'24_([Paper](https://www.arxiv.org/pdf/2410.17266))
 
 ### Data Augmentation / Datasets
 - Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context, *AAAI'24* ([Paper](https://arxiv.org/pdf/2309.07708))
