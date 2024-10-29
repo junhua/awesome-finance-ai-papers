@@ -17,7 +17,6 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 - Reinforcement Learning with Maskable Stock Representation for Portfolio Management in Customizable Stock Pools, *WWW'24* ([paper](https://arxiv.org/pdf/2311.10801))
 - FreQuant: A Reinforcement-Learning based Adaptive Portfolio Optimization with Multi-frequency Decomposition, *KDD'24* ([paper](https://dl.acm.org/doi/10.1145/3637528.3671668))
 - Risk-Managed Sparse Index Tracking Via Market Graph Clustering, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447211))
-- DiffSTOCK: Probabilistic relational Stock Market Predictions using Diffusion Models, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/document/10446690))
 - Mitigating Extremal Risks: A Network-Based Portfolio Strategy, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2409.12208v1))
 - Improving Portfolio Optimization Results with Bandit Networks, *ArXiv'24* ([paper](https://arxiv.org/pdf/2410.04217))
 
@@ -28,7 +27,8 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 - DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting, *KDD'23* ([Paper](https://arxiv.org/pdf/2306.09862))
 - Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting, *KDD'25* ([Paper](https://arxiv.org/pdf/2409.15662))
 - Stock Movement Prediction Based on Bi-typed Hybrid-relational Market Knowledge Graph via Dual Attention Networks, *TKDE'23* ([Paper](https://arxiv.org/pdf/2201.04965))
-- - GARCH-Informed Neural Networks for Volatility Prediction in Financial Markets, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2410.00288v1))
+- GARCH-Informed Neural Networks for Volatility Prediction in Financial Markets, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2410.00288v1))
+- DiffSTOCK: Probabilistic relational Stock Market Predictions using Diffusion Models, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/document/10446690))
 
 ### Binary Trend/Movement Classification
 - Multi-relational Graph Diffusion Neural Network with Parallel Retention for Stock Trends Classification, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/document/10447394))
