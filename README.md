@@ -22,6 +22,7 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 - Improving Portfolio Optimization Results with Bandit Networks, *ArXiv'24* ([paper](https://arxiv.org/pdf/2410.04217))
 
 ### Stock Price Forecasting
+- MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction, *AAAI'24* ([Paper](https://arxiv.org/pdf/2402.06633))
 - Enhanced forecasting of stock prices based on variational mode decomposition, PatchTST, and adaptive scale-weighted layer, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2408.16707))
 - Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting, *KDD'25* ([Paper](https://arxiv.org/pdf/2409.15662))
 - Stock Movement Prediction Based on Bi-typed Hybrid-relational Market Knowledge Graph via Dual Attention Networks, *TKDE'23* ([Paper](https://arxiv.org/pdf/2201.04965))
@@ -39,7 +40,6 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 - Volatility Forecasting in Global Financial Markets Using TimeMixer, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2410.09062))
 
 ### Return/Earning Prediction
-- MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction, *AAAI'24* ([Paper](https://arxiv.org/pdf/2402.06633))
 - MASTER: Market-Guided Stock Transformer for Stock Price Forecasting, *AAAI'24* ([Paper](https://arxiv.org/pdf/2312.15235))
 - CI-STHPAN: Pre-trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph, *AAAI'24* ([Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770))
 - Automatic De-Biased Temporal-Relational Modeling for Stock Investment Recommendation, *IJCAI'24* ([Paper](https://www.ijcai.org/proceedings/2024/0221.pdf))
