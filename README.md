@@ -10,7 +10,7 @@ This list extends an earlier collection: [Awesome-LLM-Agents](https://github.com
 
 If the content helps you in your work, please leave a ⭐️ to the repo, or [cite](#citation) this repo.
 
-## By Categories
+## By Tasks
 ### Portfolio Optimization
 - Developing A Multi-Agent and Self-Adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management, *AAMAS'24* ([Paper](https://arxiv.org/pdf/2402.00515))
 - Trend-Heuristic Reinforcement Learning Framework for News-Oriented Stock Portfolio Management, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447993&tag=1))
@@ -21,26 +21,23 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 - Mitigating Extremal Risks: A Network-Based Portfolio Strategy, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2409.12208v1))
 - Improving Portfolio Optimization Results with Bandit Networks, *ArXiv'24* ([paper](https://arxiv.org/pdf/2410.04217))
 
-### Stock Price Forecasting
+### Continuous Price Prediction
 - MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction, *AAAI'24* ([Paper](https://arxiv.org/pdf/2402.06633))
 - MASTER: Market-Guided Stock Transformer for Stock Price Forecasting, *AAAI'24* ([Paper](https://arxiv.org/pdf/2312.15235))
 - Enhanced forecasting of stock prices based on variational mode decomposition, PatchTST, and adaptive scale-weighted layer, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2408.16707))
+- DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting, *KDD'23* ([Paper](https://arxiv.org/pdf/2306.09862))
 - Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting, *KDD'25* ([Paper](https://arxiv.org/pdf/2409.15662))
 - Stock Movement Prediction Based on Bi-typed Hybrid-relational Market Knowledge Graph via Dual Attention Networks, *TKDE'23* ([Paper](https://arxiv.org/pdf/2201.04965))
+- - GARCH-Informed Neural Networks for Volatility Prediction in Financial Markets, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2410.00288v1))
 
-### Stock Trend / Movement Prediction
+### Binary Trend/Movement Classification
 - Multi-relational Graph Diffusion Neural Network with Parallel Retention for Stock Trends Classification, *ICASSP'24* ([Paper](https://ieeexplore.ieee.org/document/10447394))
 - Saliency-Aware Interpolative Augmentation for Multimodal Financial Prediction, *COLING'24* ([Paper](https://aclanthology.org/2024.lrec-main.1244.pdf))
 - ECHO-GL: Earnings Calls-Driven Heterogeneous Graph Learning for Stock Movement Prediction, *AAAI'24* ([Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29305))
 - Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Iterative Refnement Labeling, *IJCAI'24* ([Paper](https://www.ijcai.org/proceedings/2024/0678.pdf))
 - MANA-Net: Mitigating Aggregated Sentiment Homogenization with News Weighting for Enhanced Market Prediction, *CIKM'24* ([Paper](https://arxiv.org/pdf/2409.05698))
-- DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting, *KDD'23* ([Paper](https://arxiv.org/pdf/2306.09862))
 
-### Volatility Forecasting
-- GARCH-Informed Neural Networks for Volatility Prediction in Financial Markets, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2410.00288v1))
-- Volatility Forecasting in Global Financial Markets Using TimeMixer, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2410.09062))
-
-### Return/Earning Prediction
+### Ranking-based Stock Prediction
 - CI-STHPAN: Pre-trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph, *AAAI'24* ([Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770))
 - Automatic De-Biased Temporal-Relational Modeling for Stock Investment Recommendation, *IJCAI'24* ([Paper](https://www.ijcai.org/proceedings/2024/0221.pdf))
 - RSAP-DFM: Regime-Shifting Adaptive Posterior Dynamic Factor Model for Stock Returns Prediction, *IJCAI'24* ([Paper](https://www.ijcai.org/proceedings/2024/0676.pdf))
