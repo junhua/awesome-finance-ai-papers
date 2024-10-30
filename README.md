@@ -6,8 +6,6 @@ The aim is to offer a comprehensive review of these papers, summarize key findin
 
 Presentation slides of the papers can be found here: [Slides](https://github.com/junhua/awesome-finance-ai-papers/blob/main/review-full.pdf).
 
-The review of individual papers will be added in progressively. 
-
 If the content helps you in your work, please leave a ⭐️ to the repo, or [cite](#citation) this repo.
 
 This list extends an earlier collection: [Awesome-LLM-Agents](https://github.com/junhua/awesome-llm-agents). 
