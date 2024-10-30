@@ -2,13 +2,15 @@
 
 This repository is a curated collection of high-quality papers presented at top Computer Science (CS) conferences related to Artificial Intelligence (AI) applications in finance. 
 
-The review of individual papers will be added in progressively. 
-
 The aim is to offer a comprehensive review of these papers, summarize key findings, and analyze their contributions to the field.
 
-This list extends an earlier collection: [Awesome-LLM-Agents](https://github.com/junhua/awesome-llm-agents). 
+Presentation slides of the papers can be found here: [Slides](https://github.com/junhua/awesome-finance-ai-papers/blob/main/review-full.pdf).
+
+The review of individual papers will be added in progressively. 
 
 If the content helps you in your work, please leave a ⭐️ to the repo, or [cite](#citation) this repo.
+
+This list extends an earlier collection: [Awesome-LLM-Agents](https://github.com/junhua/awesome-llm-agents). 
 
 ## Price Prediction
 ### Formulation
