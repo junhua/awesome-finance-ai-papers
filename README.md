@@ -37,7 +37,7 @@ If the content helps you in your work, please leave a ⭐️ to the repo, or [ci
 - Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Iterative Refnement Labeling, *IJCAI'24* ([Paper](https://www.ijcai.org/proceedings/2024/0678.pdf))
 - MANA-Net: Mitigating Aggregated Sentiment Homogenization with News Weighting for Enhanced Market Prediction, *CIKM'24* ([Paper](https://arxiv.org/pdf/2409.05698))
 
-### Ranking-based Stock Prediction
+### Ranking-based Stock Selection
 - CI-STHPAN: Pre-trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph, *AAAI'24* ([Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770))
 - Automatic De-Biased Temporal-Relational Modeling for Stock Investment Recommendation, *IJCAI'24* ([Paper](https://www.ijcai.org/proceedings/2024/0221.pdf))
 - RSAP-DFM: Regime-Shifting Adaptive Posterior Dynamic Factor Model for Stock Returns Prediction, *IJCAI'24* ([Paper](https://www.ijcai.org/proceedings/2024/0676.pdf))
