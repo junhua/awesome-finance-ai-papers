@@ -1,6 +1,6 @@
-# Awesome-Finance-AI-Papers: Recent Advancements in AI for Finance
+# A Survey of Financial AI: Architectures, Advances and Open Challenges
 
-[Slides](https://github.com/junhua/awesome-finance-ai-papers/blob/main/review-full.pdf), [Cite](#citation)
+Resources: [Paper](https://github.com/junhua/awesome-finance-ai-papers/blob/main/Recent_Advancement_in_AI_for_Finance.pdf), [Slides](https://github.com/junhua/awesome-finance-ai-papers/blob/main/review-full.pdf), [Cite](#citation)
 
 This repository is a curated collection of high-quality papers presented at top Computer Science (CS) conferences related to Artificial Intelligence (AI) applications in finance. 
 
@@ -139,7 +139,7 @@ Please cite the repo if the content assists your work.
 ```
 @misc{awesome-finance-ai-papers,
 author = {Junhua Liu},
-title = {A Survey of Recent Advancements in AI for Finance},
+title = {A Survey of Financial AI: Architectures, Advances and Open Challenges},
 year = {2024},
 publisher = {GitHub},
 journal = {GitHub Repository},
