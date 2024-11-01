@@ -143,6 +143,7 @@ title = {A Survey of Financial AI: Architectures, Advances and Open Challenges},
 year = {2024},
 publisher = {GitHub},
 journal = {GitHub Repository},
+doi={10.5281/zenodo.14021183},
 howpublished = {\url{https://github.com/junhua/awesome-finance-ai-papers}},
 }
 ```
