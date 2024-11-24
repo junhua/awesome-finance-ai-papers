@@ -1,6 +1,6 @@
 # A Survey of Financial AI: Architectures, Advances and Open Challenges
 
-Resources: [Paper](https://github.com/junhua/awesome-finance-ai-papers/blob/main/survey-paper.pdf), [Slides](https://github.com/junhua/awesome-finance-ai-papers/blob/main/review-full.pdf), [Cite](#citation)
+Resources: [Paper](https://arxiv.org/pdf/2411.12747), [Slides](https://github.com/junhua/awesome-finance-ai-papers/blob/main/review-full.pdf), [Cite](#citation)
 
 This repository is a curated collection of high-quality papers presented at top Computer Science (CS) conferences related to Artificial Intelligence (AI) applications in finance. 
 
