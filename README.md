@@ -137,13 +137,12 @@ This section includes some other survey papers on LLM for Finance
 ## Citation
 Please cite the repo if the content assists your work.
 ```
-@misc{awesome-finance-ai-papers,
-author = {Junhua Liu},
-title = {A Survey of Financial AI: Architectures, Advances and Open Challenges},
-year = {2024},
-publisher = {GitHub},
-journal = {GitHub Repository},
-doi={10.5281/zenodo.14021183},
-howpublished = {\url{https://github.com/junhua/awesome-finance-ai-papers}},
+@article{liu2024survey,
+  title={A Survey of Financial AI: Architectures, Advances and Open Challenges},
+  author={Liu, Junhua},
+  journal={arXiv:2411.12747},
+  url={https://github.com/junhua/awesome-finance-ai-papers/},
+  year={2024},
+  publisher={arXiv}
 }
 ```
